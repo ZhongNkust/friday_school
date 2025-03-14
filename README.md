@@ -2,7 +2,7 @@
 
 |項目|標題|內容|
 |---|---|---|
-|1|大頭照|test|
+|1|大頭照|<img src="Cinnamoroll_character.png">|
 |2|姓名|黃于忠|
 |3|科系|電子系|
 |4|信箱|C111252124@nkust.edu.tw|
