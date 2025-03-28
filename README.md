@@ -19,3 +19,17 @@
 <a href ="https://youtu.be/sXeYkw4VE24?si=sWyWu7uBfLYiuMzr" target="_blank"><img src="https://img.youtube.com/vi/sXeYkw4VE24/sddefault.jpg" alt="Karina" width="720" hieght="360" border="10" /></a>
 <br>影片取自Youtube
 
+<details>
+<summary>
+  
+  ## Aespa 成員介紹
+  
+</summary>
+
+>### Karina
+<br>
+
+
+
+
+</details>
