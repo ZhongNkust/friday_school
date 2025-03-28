@@ -7,7 +7,9 @@
 | 1    | 大頭照 | ![大頭照](Cinnamoroll_character.png) |
 | 2    | 姓名   | 黃于忠                          |
 | 3    | 科系   | 電子系                          |
-| 4    | 信箱   | C111252124@nkust.edu.tw         |
+| 4    | 職業   | 軟體測試工程師                   |
+| 5    | 信箱   | C111252124@nkust.edu.tw         |
+
 
 <br><br>
 # 我喜歡的Youtube影片
@@ -17,4 +19,3 @@
 <a href ="https://youtu.be/sXeYkw4VE24?si=sWyWu7uBfLYiuMzr" target="_blank"><img src="https://img.youtube.com/vi/sXeYkw4VE24/sddefault.jpg" alt="Karina" width="720" hieght="360" border="10" /></a>
 <br>影片取自Youtube
 
-<br>
