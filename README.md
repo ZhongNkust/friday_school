@@ -35,7 +35,7 @@
 | 英文   | Karina      |
 | 名字   | 劉知珉       |
 | 韓文   | 유지민       |
-| 代表色 | <font color=#0000FF>藍色</font>         |
+| 代表色 | 藍色         |
 
 圖片取自成員IG(@katarinabluu)
 
