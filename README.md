@@ -36,7 +36,8 @@
 | 名字   | 劉知珉       |
 | 韓文   | 유지민       |
 | 代表色 | <font color=#0000FF>藍色</font>         |
-<br>影片取自成員IG(@katarinabluu)
+
+圖片取自成員IG(@katarinabluu)
 
 >### Winter
 <br>
@@ -48,7 +49,8 @@
 | 名字   | 金旼炡       |
 | 韓文   | 김민정       |
 | 代表色 | 白色         |
-<br>影片取自成員IG(@imwinter)
+
+圖片取自成員IG(@imwinter)
 
 >### NingNing
 <br>
@@ -60,7 +62,8 @@
 | 名字   | 寧藝卓       |
 | 韓文   | 닝이줘       |
 | 代表色 | 紫色         |
-<br>影片取自成員IG(@imnotningning)
+
+圖片取自成員IG(@imnotningning)
 
 >### Giselle
 <br>
@@ -72,6 +75,7 @@
 | 名字   | 内永枝利       |
 | 韓文   | 김애리       |
 | 代表色 | 粉色         |
-<br>影片取自成員IG(@aerichandesu)
+
+圖片取自成員IG(@aerichandesu)
 
 </details>
