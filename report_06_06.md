@@ -1,5 +1,6 @@
 報告主題：智慧都市
 ===
+![Report_QRcode](Report_QRcode.jpg)
 
 ### 成員
 | 職位 | 學號 | 姓名 | 分工 |
