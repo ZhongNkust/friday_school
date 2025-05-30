@@ -22,6 +22,6 @@
 * 提升公共服務：提供智慧化的公共服務，如智慧交通、智慧醫療、智慧教育等。
 * 推動永續發展：透過智慧化技術，實現能源效率提升、減碳目標等。
 * 改善生活品質：透過智慧化的城市環境，改善居民生活品質。
-
+<img src="Clean_mobility_instead_of_dirty_traffic.jpg" height=700 width=824>
 
 資料來源：[維基百科](http://markdown.tw](https://zh.wikipedia.org/zh-tw/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82 "Title")
