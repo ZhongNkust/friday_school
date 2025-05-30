@@ -83,7 +83,14 @@
 
 資料來源：[未來城市](https://futurecity.cw.com.tw/article/3248 "Title")
 
+</details>
+
+<details>
+<summary>
+  
 # 台灣的智慧城市
+
+</summary>
 
 ## 台北市
 ### 除了全球的智慧城市，台北也位列了智慧城市排名的第16名。我們會列舉幾個案例來介紹一下台北的智慧都市近況。
