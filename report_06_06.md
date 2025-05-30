@@ -24,4 +24,4 @@
 * 改善生活品質：透過智慧化的城市環境，改善居民生活品質。
 
 
-資料來源：
+資料來源：[維基百科](http://markdown.tw](https://zh.wikipedia.org/zh-tw/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82 "Title")
